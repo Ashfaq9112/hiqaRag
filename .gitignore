@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Data: public PDFs and regenerable output (rebuild with ingestion.run_ingestion)
+data/downloaded_reports/
+data/parsed/
+data/raw/
+
+# Scratch files
+handscantxt.txt
+nursing_2024-2_report.txt
+scrapped/
+learnings/
+data/compare/
+pdf_scrapper.py
