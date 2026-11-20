@@ -217,3 +217,7 @@ These choices were made deliberately — be ready to explain the reasoning in in
 - **Build incrementally.** Ship a working baseline, then add hybrid retrieval, then reranking, measuring lift at each stage.
 
 
+
+# Session Log (Google Drive)
+
+At the end of every session, create a NEW Google Doc in the Drive folder `claude memories/hiqa rag` (folder id `13GtsxgW6rW_HnPIX5yW4peu1HbKPmTPZ`) titled `Session log YYYY-MM-DD`, with what we did and what we learnt (short, with numbers). The Drive connector can create files but cannot edit a doc's contents, so never try to append to an existing one. `HIQA RAG - project timeline and learnings` (id `1VroSFA8qbZ4paQHSa2zA97yP-uXz8G07Hv5RTrqj8gQ`) is the baseline up to 2026-11-17. A scheduled Claude reads this folder to remind the user to post on LinkedIn, so keep entries factual and free of personal details. When the user mentions a LinkedIn post, record it in a new file `Posting history YYYY-MM-DD` in the same folder.
