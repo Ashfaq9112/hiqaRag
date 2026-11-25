@@ -25,3 +25,6 @@ learnings/
 data/compare/
 pdf_scrapper.py
 data/chunks
+# Evaluation logs
+evaluation/out/
+lexranks.json
